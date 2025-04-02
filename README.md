@@ -1,16 +1,15 @@
-## Hi there 👋
+👨‍💻 Developer / Just a code enjoyer  
+🐭 Creator of the `vscode-to-confluence` extension  
+💡 Exploring both serious tools and a bit of mesugaki energy for fun & productivity.
 
-<!--
-**komari-nii/komari-nii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Probably just someone's onii-chan who likes tech stuff.  
+🔧 Playing around with basic extensions and weird ideas — always experimenting.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 開発者 / ただのコード好き  
+🐭 Confluence連携拡張つくった人です  
+💡 真面目なやつからメスガキまで、いろんなので遊んでます
+
+💬 おにいちゃんって呼ばれてるけど、ただの技術好きです  
+🔧 普通の拡張からちょっと変なのまで、ゆるく実験してます
